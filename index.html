@@ -2,19 +2,35 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Running tests…</title>
-  <style>
-    body { font: 14px/1.4 ui-monospace, Menlo, monospace; margin: 16px; background: #fff; color: #111; }
-    .pass { color: #1a7334; } .fail { color: #b42318; font-weight: 700; }
-    ul { padding-left: 0; list-style: none; }
-    iframe { border: 1px solid #ccc; height: 900px; display: block; margin-top: 16px; }
-  </style>
-  <script type="module" src="browser.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>SLS 1L Winter Electives 2026–27</title>
+  <meta name="description" content="Unofficial student-made planner for SLS 1L Winter 2027 electives.">
+  <meta name="robots" content="noindex">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#FFFFFF">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23DDE8F6'/%3E%3Crect x='7' y='7' width='8' height='8' rx='2' fill='%23294A73'/%3E%3Crect x='17' y='7' width='8' height='8' rx='2' fill='%23E2D7C9'/%3E%3Crect x='7' y='17' width='8' height='8' rx='2' fill='%23E2D7C9'/%3E%3Crect x='17' y='17' width='8' height='8' rx='2' fill='%23A4493A'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+  <script type="module" src="js/main.js"></script>
 </head>
 <body>
-  <h1 id="summary">Running…</h1>
-  <ul id="out"></ul>
-  <iframe id="frame" title="site under test"></iframe>
+  <div class="wrap">
+    <header class="hero">
+      <h1 id="title">SLS 1L Winter Electives 2026–27</h1>
+      <p id="spotlight" class="spot" hidden></p>
+    </header>
+
+    <p id="loading" class="loading">Loading courses…</p>
+    <noscript><p class="fatal">This page needs JavaScript to show the course list.</p></noscript>
+    <div id="data-problems" class="data-problems" role="alert" hidden></div>
+
+    <main id="main" class="main" hidden>
+      <section class="card cal-panel" aria-label="Weekly calendar"><div id="calendar" class="cal"></div></section>
+      <section class="card finder-panel" aria-label="Add courses"><div id="finder" class="finder"></div></section>
+    </main>
+
+    <section id="picked" class="picked" aria-labelledby="picked-h" hidden></section>
+
+    <footer id="footer" class="foot"></footer>
+  </div>
 </body>
 </html>
