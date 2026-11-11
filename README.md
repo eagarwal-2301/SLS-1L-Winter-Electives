@@ -3,7 +3,9 @@
 Unofficial one-page planner for 1Ls: a weekly calendar with the required
 courses, a searchable list of Winter 2027 electives to add to it, details for
 the ones you pick, and a calendar (.ics) export.
-Static site: plain HTML/CSS/JS, no build step, no backend, no tracking.
+Static site: plain HTML/CSS/JS, no build step, no backend, no cookies.
+Visitor counts come from Vercel Web Analytics (anonymous; turn it on in the
+Vercel project under **Analytics → Enable**).
 
 ## Fixing a course
 
