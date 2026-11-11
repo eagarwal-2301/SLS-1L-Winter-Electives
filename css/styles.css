@@ -224,10 +224,12 @@ h1 {
 @media (max-width: 759px) {
   .hero { padding: 40px 0 32px; }
   h1 { font-size: 31px; }
-  .spot { font-size: 15px; }
   .foot-banner { font-size: 13.5px; padding: 18px 0; }
-  .spot { border-radius: 18px; align-items: flex-start; }
-  .spot-dot { margin-top: 7px; }
+  /* one flowing sentence: the date continues the label's last line instead of dropping to its own */
+  .spot { display: block; max-width: 340px; padding: 12px 16px; border-radius: 20px; font-size: 14.5px; line-height: 1.45; text-align: center; }
+  .spot-dot { display: inline-block; width: 8px; height: 8px; margin-right: 8px; vertical-align: 1px; }
+  .spot-text { display: inline; }
+  .spot-date { margin-left: 5px; }
   .card { border-radius: 22px; }
   .cal-panel { padding: 16px 10px 12px 2px; }
   .cal { height: calc(var(--span, 660) * 0.6px + 28px); }
