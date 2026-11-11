@@ -1,0 +1,2091 @@
+{
+  "meta": {
+    "title": "SLS 1L Winter Electives 2026–27",
+    "term": "Winter 2027 (2026–27)",
+    "dataAsOf": "2026-11-10",
+    "timezone": "America/Los_Angeles",
+    "disclaimer": "Unofficial, student-made planning tool. Not affiliated with, sponsored by, or endorsed by Stanford University, Stanford Law School, or the SLS Registrar. Course information was compiled from the SLS course catalog and class schedule grid as of Nov 10, 2026, is provided for convenience only, and may be incomplete, outdated, or incorrect. It is provided “as is,” without warranties of any kind, and is not academic advice or a guarantee of enrollment. Always confirm course details, meeting times, and deadlines in Axess, the SLS course catalog, and official Registrar communications before enrolling. The creator is not responsible for errors or omissions or for any decisions made in reliance on this site.",
+    "typeDefinitions": {
+      "Doctrinal": "Teaches a body of substantive law (cases, statutes, rules); usually a lecture graded mainly by an exam.",
+      "Seminar": "Non-doctrinal: discussion, skills, theory or practice-oriented courses; usually graded on papers, assignments and participation.",
+      "note": "SLS does not officially label courses as doctrinal or seminar; those labels are judgment calls based on each course's format, subject matter and grading."
+    },
+    "rules": {
+      "requiredUnits": 9,
+      "electiveUnitsMax": 5,
+      "totalUnitsMax": 14,
+      "lotteryMaxChoices": 4,
+      "lotteryMaxAdmitted": 2,
+      "notes": [
+        "Constitutional Law, Criminal Law and Federal Litigation in a Global Context are required; you are auto-enrolled and your section is assigned in Axess.",
+        "1Ls may take up to 5 elective units, only from the 1L Winter Elective list, with no more than 14 units total.",
+        "In the Axess Law Lottery you can rank up to 4 lottery courses and be admitted to at most 2. 2Ls and 3Ls get preference over 1Ls.",
+        "Admitted and waitlisted students must attend every class during add/drop or tell the instructor in advance (\"attend or inform\")."
+      ]
+    },
+    "deadlines": [
+      {
+        "date": "2026-11-16T23:59",
+        "label": "Axess Law Lottery rankings and consent applications due",
+        "detail": "Unless the instructor set a different deadline"
+      },
+      {
+        "date": "2026-11-30T23:59",
+        "label": "AI Product & Policy Counseling consent form due",
+        "detail": "Rolling after the deadline"
+      },
+      {
+        "date": "2026-12-02T17:30",
+        "label": "Axess opens: add open-enrollment courses"
+      },
+      {
+        "date": "2027-01-04T17:00",
+        "label": "Classes begin; preliminary study list deadline"
+      },
+      {
+        "date": "2027-01-22T17:00",
+        "label": "Final study list deadline (last day to add/drop)"
+      }
+    ],
+    "calendar": {
+      "firstDay": "2027-01-04",
+      "lastDay": "2027-03-08",
+      "noClassDates": [
+        {
+          "date": "2027-01-18",
+          "reason": "MLK Holiday"
+        }
+      ],
+      "notes": [
+        "Feb 15 is Presidents' Day, but Monday classes meet."
+      ],
+      "examPeriod": {
+        "start": "2027-03-12",
+        "end": "2027-03-19"
+      }
+    },
+    "sources": [
+      {
+        "label": "SLS 1L Schedule Winter 2026–2027 (SUNet login)",
+        "url": "https://law.stanford.edu/education/courses/stanford-law-class-schedule-grids/1l-schedule-winter-2026-2027/"
+      },
+      {
+        "label": "Winter 2026–27 Pre-registration Instructions (1L)",
+        "url": "https://law.stanford.edu/wp-content/uploads/2026/11/Winter-2026-2027-%E2%80%93-Pre-registration-Instructions-1L-1.pdf"
+      },
+      {
+        "label": "Consent of Instructor Forms",
+        "url": "https://law.stanford.edu/education/courses/consent-of-instructor-forms/"
+      },
+      {
+        "label": "SLS Course Catalog",
+        "url": "https://law.stanford.edu/courses/"
+      },
+      {
+        "label": "2026–27 Academic Calendar",
+        "url": "https://law.stanford.edu/education/courses/calendar-deadlines/2026-2027-academic-calendar/"
+      }
+    ]
+  },
+  "required": [
+    {
+      "id": "criminal-law",
+      "title": "Criminal Law",
+      "shortTitle": "Crim",
+      "units": 4,
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "08:30",
+          "end": "09:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "09:50",
+          "end": "11:00",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "09:50",
+          "end": "11:00",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Fri",
+          "start": "09:50",
+          "end": "11:00",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ]
+    },
+    {
+      "id": "constitutional-law",
+      "title": "Constitutional Law",
+      "shortTitle": "ConLaw",
+      "units": 3,
+      "meetings": [
+        {
+          "day": "Wed",
+          "start": "08:30",
+          "end": "09:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Mon",
+          "start": "09:50",
+          "end": "11:00",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Tue",
+          "start": "09:50",
+          "end": "11:00",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ]
+    },
+    {
+      "id": "federal-litigation",
+      "title": "Federal Litigation in a Global Context",
+      "shortTitle": "Fed Lit",
+      "units": 2,
+      "meetings": [
+        {
+          "day": "Fri",
+          "start": "08:30",
+          "end": "09:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ]
+    }
+  ],
+  "requiredNote": "All sections of each required course meet at the same time; only the professor differs.",
+  "electives": [
+    {
+      "id": "advanced-civil-procedure",
+      "title": "Advanced Civil Procedure",
+      "shortTitle": "Advanced Civil Procedure",
+      "courseNumber": "LAW 2401",
+      "section": 1,
+      "classNumber": 1063,
+      "units": 3,
+      "professors": [
+        "Diego A. Zambrano"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-person final exam, plus participation",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/advanced-civil-procedure-2/"
+    },
+    {
+      "id": "ai-product-and-policy-counseling-from-design-to-deployment",
+      "title": "AI Product & Policy Counseling: From Design to Deployment",
+      "shortTitle": "AI Product & Policy Counseling",
+      "courseNumber": "LAW 4069",
+      "section": 1,
+      "classNumber": 28454,
+      "units": 2,
+      "professors": [
+        "Sarah Shirazyan",
+        "Allen S. Weiner"
+      ],
+      "type": "Seminar",
+      "typeNote": "Seminar format, but graded by an in-class final exam",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-class final exam, plus attendance and participation",
+      "enrollment": {
+        "method": "Consent (instructor)",
+        "seats": 20,
+        "howToApply": "Submit the instructor's Google Form consent application",
+        "deadline": "2026-11-30T23:59",
+        "applyUrl": "https://forms.gle/aM3qb6quDLAsfsoK9"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "16:15",
+          "end": "18:30",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "Consent form is separate from the registrar site; late applications reviewed on a rolling basis"
+      ],
+      "url": "https://law.stanford.edu/courses/ai-product-policy-counseling-from-design-to-deployment/"
+    },
+    {
+      "id": "business-leadership-for-lawyers-in-the-age-of-ai",
+      "title": "Business Leadership for Lawyers in the Age of AI",
+      "shortTitle": "Business Leadership in the Age of AI",
+      "courseNumber": "LAW 1100",
+      "section": 1,
+      "classNumber": 29118,
+      "units": 2,
+      "professors": [
+        "Phoebe Yang"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, case study, final paper and presentation",
+      "enrollment": {
+        "method": "Lottery",
+        "seats": 16,
+        "howToApply": "Rank it in the Axess Law Lottery (up to 4 choices; max 2 admitted)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://axess.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-03-04",
+          "endDate": "2027-03-04"
+        },
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-02-25",
+          "endDate": "2027-02-25"
+        },
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-02-18",
+          "endDate": "2027-02-18"
+        },
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-02-04",
+          "endDate": "2027-02-04"
+        },
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-28",
+          "endDate": "2027-01-28"
+        },
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-21",
+          "endDate": "2027-01-21"
+        }
+      ],
+      "flags": [
+        "Meets only 6 Thursdays: Jan 21, Jan 28, Feb 4, Feb 18, Feb 25, Mar 4"
+      ],
+      "url": "https://law.stanford.edu/courses/business-leadership-for-lawyers-in-the-age-of-ai/"
+    },
+    {
+      "id": "constitutional-law-the-fourteenth-amendment",
+      "title": "Constitutional Law: The Fourteenth Amendment",
+      "shortTitle": "ConLaw: 14th Amendment",
+      "courseNumber": "LAW 7010B",
+      "section": 1,
+      "classNumber": 1071,
+      "units": 3,
+      "professors": [
+        "Richard Thompson Ford"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-person final exam, plus participation",
+      "enrollment": {
+        "method": "Consent (registrar lottery)",
+        "seats": 60,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab); seats are assigned by lottery",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/constitutional-law-the-fourteenth-amendment/"
+    },
+    {
+      "id": "corruption",
+      "title": "Corruption",
+      "shortTitle": "Corruption",
+      "courseNumber": "LAW 2039",
+      "section": 1,
+      "classNumber": 29124,
+      "units": 2,
+      "professors": [
+        "David A. Sklansky"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Four short oral presentations and one 500–750 word paper",
+      "enrollment": {
+        "method": "Lottery",
+        "seats": 8,
+        "howToApply": "Rank it in the Axess Law Lottery (up to 4 choices; max 2 admitted)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://axess.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/corruption/"
+    },
+    {
+      "id": "creation-of-the-constitution",
+      "title": "Creation of the Constitution",
+      "shortTitle": "Creation of the Constitution",
+      "courseNumber": "LAW 7017",
+      "section": 1,
+      "classNumber": 1072,
+      "units": 4,
+      "professors": [
+        "Michael W. McConnell"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "Closed-book in-person final (short answers + essay)",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Fri",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/creation-of-the-constitution/"
+    },
+    {
+      "id": "criminal-justice-reform-and-litigation-three-strikes-project",
+      "title": "Criminal Justice Reform & Litigation: Three Strikes Project",
+      "shortTitle": "Three Strikes Project",
+      "courseNumber": "LAW 2008",
+      "section": 1,
+      "classNumber": 28601,
+      "units": 4,
+      "professors": [
+        "Michael Romano"
+      ],
+      "type": "Seminar",
+      "typeNote": "Hands-on litigation project course",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, participation, attendance",
+      "enrollment": {
+        "method": "Consent (instructor)",
+        "seats": 10,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "14:00",
+          "end": "16:10",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "Consent applications reviewed on a rolling basis"
+      ],
+      "url": "https://law.stanford.edu/courses/three-strikes-project-criminal-justice-reform-individual-representation/"
+    },
+    {
+      "id": "dealing-with-disasters-perspectives-on-tort-and-regulation",
+      "title": "Dealing with Disasters: Perspectives on Tort and Regulation",
+      "shortTitle": "Dealing with Disasters",
+      "courseNumber": "LAW 3260",
+      "section": 1,
+      "classNumber": 1146,
+      "units": 2,
+      "professors": [
+        "Robert L. Rabin"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments or a final research paper",
+      "enrollment": {
+        "method": "Lottery",
+        "seats": 18,
+        "howToApply": "Rank it in the Axess Law Lottery (up to 4 choices; max 2 admitted)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://axess.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/dealing-with-disasters-perspectives-on-tort-and-regulation/"
+    },
+    {
+      "id": "deals-i",
+      "title": "Deals I",
+      "shortTitle": "Deals I",
+      "courseNumber": "LAW 1016",
+      "section": 1,
+      "classNumber": 1073,
+      "units": 3,
+      "professors": [
+        "Michael Klausner"
+      ],
+      "type": "Seminar",
+      "typeNote": "Transactional skills course; lecture format with an exam",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam + paper",
+      "assessmentDetail": "Group paper (two drafts), presentation, written assignments, and an exam",
+      "enrollment": {
+        "method": "Consent (instructor)",
+        "seats": 30,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/deals-i/"
+    },
+    {
+      "id": "economic-analysis-of-law",
+      "title": "Economic Analysis of Law",
+      "shortTitle": "Economic Analysis of Law",
+      "courseNumber": "LAW 7502",
+      "section": 1,
+      "classNumber": 1074,
+      "units": 3,
+      "professors": [
+        "A. Mitchell Polinsky"
+      ],
+      "type": "Seminar",
+      "typeNote": "Lecture on law & economics theory rather than a body of doctrine",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Problem sets",
+      "assessmentDetail": "Four short take-home problems; no final",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/economic-analysis-of-law/"
+    },
+    {
+      "id": "energy-law",
+      "title": "Energy Law",
+      "shortTitle": "Energy Law",
+      "courseNumber": "LAW 2503",
+      "section": 1,
+      "classNumber": 1149,
+      "units": 3,
+      "professors": [
+        "Michael Gergen"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Quizzes on readings and a final writing assignment",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/energy-law/"
+    },
+    {
+      "id": "european-union-law",
+      "title": "European Union Law",
+      "shortTitle": "European Union Law",
+      "courseNumber": "LAW 5005",
+      "section": 1,
+      "classNumber": 1126,
+      "units": 2,
+      "professors": [
+        "Siegfried Fina"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Writing assignments or a research paper",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/european-union-law/"
+    },
+    {
+      "id": "evidence",
+      "title": "Evidence",
+      "shortTitle": "Evidence",
+      "courseNumber": "LAW 2402A",
+      "section": 1,
+      "classNumber": 1075,
+      "units": 5,
+      "professors": [
+        "George Fisher"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-person final (half essay, half multiple choice)",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "14:00",
+          "end": "16:10",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "5 units: uses your entire elective allowance"
+      ],
+      "url": "https://law.stanford.edu/courses/evidence/"
+    },
+    {
+      "id": "fintech-innovation-and-law",
+      "title": "Fintech Innovation and Law",
+      "shortTitle": "Fintech Innovation and Law",
+      "courseNumber": "LAW 1095",
+      "section": 1,
+      "classNumber": 29045,
+      "units": 2,
+      "professors": [
+        "Greg Buchak",
+        "Jai Massari"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "One-day take-home exam, plus participation",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-02-12"
+        }
+      ],
+      "flags": [
+        "Meets the first six weeks only (through Feb 11)"
+      ],
+      "url": "https://law.stanford.edu/courses/fintech-innovation-and-law/"
+    },
+    {
+      "id": "foundations-of-internet-speech-platform-regulation",
+      "title": "Foundations of Internet Speech Platform Regulation",
+      "shortTitle": "Internet Speech Platform Regulation",
+      "courseNumber": "LAW 4051",
+      "section": 1,
+      "classNumber": 1122,
+      "units": 3,
+      "professors": [
+        "Daphne Keller"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "One-day take-home exam, plus short discussion-board posts",
+      "enrollment": {
+        "method": "Lottery",
+        "seats": 20,
+        "howToApply": "Rank it in the Axess Law Lottery (up to 4 choices; max 2 admitted)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://axess.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "Course description says 2Ls and above, but SLS lists it as a 1L elective; confirm with the instructor",
+        "Up to 5 students may write a paper instead of the exam (instructor consent)"
+      ],
+      "url": "https://law.stanford.edu/courses/foundations-of-internet-speech-platform-regulation/"
+    },
+    {
+      "id": "gender-law-and-public-policy",
+      "title": "Gender, Law, and Public Policy",
+      "shortTitle": "Gender, Law, and Public Policy",
+      "courseNumber": "LAW 7013",
+      "section": 1,
+      "classNumber": 1077,
+      "units": 3,
+      "professors": [
+        "Fred Smith"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "Final exam (format TBD) and short reading responses",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/gender-law-and-public-policy/"
+    },
+    {
+      "id": "ideological-orthodoxy-and-heterodoxy",
+      "title": "Ideological Orthodoxy and Heterodoxy",
+      "shortTitle": "Ideological Orthodoxy & Heterodoxy",
+      "courseNumber": "LAW 5814",
+      "section": 1,
+      "classNumber": 1079,
+      "units": 2,
+      "professors": [
+        "Mark G. Kelman"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Two 5–8 page reaction papers and four mini-papers",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/ideological-orthodoxy-and-heterodoxy/"
+    },
+    {
+      "id": "immigration-law",
+      "title": "Immigration Law",
+      "shortTitle": "Immigration Law",
+      "courseNumber": "LAW 7026",
+      "section": 1,
+      "classNumber": 1080,
+      "units": 3,
+      "professors": [
+        "Lucas Guttentag"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "One-day take-home exam (85%), participation (15%)",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/immigration-law-and-policy/"
+    },
+    {
+      "id": "intellectual-property-copyright",
+      "title": "Intellectual Property: Copyright",
+      "shortTitle": "Copyright",
+      "courseNumber": "LAW 4007B",
+      "section": 1,
+      "classNumber": 1124,
+      "units": 3,
+      "professors": [
+        "Tyler Ochoa"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "Open-book in-person final",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/intellectual-property-copyright-2/"
+    },
+    {
+      "id": "international-trade-law",
+      "title": "International Trade Law",
+      "shortTitle": "International Trade Law",
+      "courseNumber": "LAW 5014",
+      "section": 1,
+      "classNumber": 1081,
+      "units": 3,
+      "professors": [
+        "Petros Mavroidis",
+        "Alan O. Sykes"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-person final, plus participation",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:00",
+          "end": "16:10",
+          "startDate": "2027-01-04",
+          "endDate": "2027-02-19"
+        },
+        {
+          "day": "Thu",
+          "start": "14:00",
+          "end": "16:10",
+          "startDate": "2027-01-04",
+          "endDate": "2027-02-19"
+        }
+      ],
+      "flags": [
+        "Global Quarter course: meets 2:00–4:10 and ends Feb 19"
+      ],
+      "url": "https://law.stanford.edu/courses/international-trade-law/"
+    },
+    {
+      "id": "introduction-to-intellectual-property",
+      "title": "Introduction to Intellectual Property",
+      "shortTitle": "Intro to IP",
+      "courseNumber": "LAW 4005B",
+      "section": 1,
+      "classNumber": 1082,
+      "units": 4,
+      "professors": [
+        "Lisa Larrimore Ouellette"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-person final, plus participation",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Fri",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/introduction-to-intellectual-property-2/"
+    },
+    {
+      "id": "introduction-to-law-and-economics",
+      "title": "Introduction to Law and Economics",
+      "shortTitle": "Intro to Law & Economics",
+      "courseNumber": "LAW 7503",
+      "section": 1,
+      "classNumber": 1083,
+      "units": 1,
+      "professors": [
+        "A. Mitchell Polinsky"
+      ],
+      "type": "Seminar",
+      "typeNote": "1-unit lecture on law & economics theory",
+      "sourceComponent": "LEC",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Problem sets",
+      "assessmentDetail": "Two short take-home exercises",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "16:15",
+          "end": "17:55",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/introduction-to-law-and-economics/"
+    },
+    {
+      "id": "introduction-to-law-and-the-biosciences",
+      "title": "Introduction to Law and the Biosciences",
+      "shortTitle": "Intro to Law & Biosciences",
+      "courseNumber": "LAW 3012",
+      "section": 1,
+      "classNumber": 1148,
+      "units": 3,
+      "professors": [
+        "Henry T. Greely"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "Open-book in-person final",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/introduction-to-law-and-the-biosciences/"
+    },
+    {
+      "id": "law-and-biosciences-workshop",
+      "title": "Law and Biosciences Workshop",
+      "shortTitle": "Law and Biosciences Workshop",
+      "courseNumber": "LAW 3005",
+      "section": 1,
+      "classNumber": 1085,
+      "units": 1,
+      "professors": [
+        "Henry T. Greely"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "LEC",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, participation",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "16:30",
+          "end": "18:20",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/law-and-biosciences-workshop/"
+    },
+    {
+      "id": "law-and-disorder-advanced-criminal-law",
+      "title": "Law and Disorder: Advanced Criminal Law",
+      "shortTitle": "Law and Disorder (Adv. Crim)",
+      "courseNumber": "LAW 2029",
+      "section": 1,
+      "classNumber": 1086,
+      "units": 3,
+      "professors": [
+        "Emily Galvin-Almanza",
+        "David Mills"
+      ],
+      "type": "Seminar",
+      "typeNote": "Lecture format, practitioner-taught, graded on a paper",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Group exercises and a final paper",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/law-and-disorder-advanced-criminal-law/"
+    },
+    {
+      "id": "law-and-economics-seminar-w",
+      "title": "Law and Economics Seminar (W)",
+      "shortTitle": "Law and Economics Seminar (W)",
+      "courseNumber": "LAW 7507",
+      "section": 1,
+      "classNumber": 1088,
+      "units": 2,
+      "professors": [
+        "A. Mitchell Polinsky"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Paper",
+      "assessmentDetail": "Four commentaries or one research paper",
+      "enrollment": {
+        "method": "Consent (instructor)",
+        "seats": 18,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/law-and-economics-seminar-ii/"
+    },
+    {
+      "id": "law-and-the-image",
+      "title": "Law and the Image",
+      "shortTitle": "Law and the Image",
+      "courseNumber": "LAW 3508",
+      "section": 1,
+      "classNumber": 1150,
+      "units": 3,
+      "professors": [
+        "Ticien Sassoubre"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/law-and-visual-culture/"
+    },
+    {
+      "id": "legal-ethics-the-plaintiffs-lawyer",
+      "title": "Legal Ethics: The Plaintiffs' Lawyer",
+      "shortTitle": "Legal Ethics: The Plaintiffs' Lawyer",
+      "courseNumber": "LAW 6004",
+      "section": 1,
+      "classNumber": 1091,
+      "units": 3,
+      "professors": [
+        "Nora Freeman Engstrom",
+        "Malka Herman"
+      ],
+      "type": "Doctrinal",
+      "typeNote": "Legal ethics (bar-related subject), but graded on papers, not an exam",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Reflection papers, participation, attendance",
+      "enrollment": {
+        "method": "Consent (registrar lottery)",
+        "seats": 60,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab); seats are assigned by lottery",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/the-plaintiffs-lawyer-institutional-constraints-and-ethical-challenges/"
+    },
+    {
+      "id": "local-government-law",
+      "title": "Local Government Law",
+      "shortTitle": "Local Government Law",
+      "courseNumber": "LAW 7051",
+      "section": 1,
+      "classNumber": 1093,
+      "units": 3,
+      "professors": [
+        "Michelle Wilde Anderson"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "One-day take-home exam and an in-class presentation",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/local-government-law/"
+    },
+    {
+      "id": "media-technology-and-the-first-amendment",
+      "title": "Media, Technology, and the First Amendment",
+      "shortTitle": "Media, Tech & the First Amendment",
+      "courseNumber": "LAW 4001",
+      "section": 1,
+      "classNumber": 1094,
+      "units": 3,
+      "professors": [
+        "Barbara van Schewick"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Problem sets",
+      "assessmentDetail": "Homework practice problems and an end-of-class quiz; no final exam listed",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "\"End-of-class quiz\" format is not described; check the syllabus"
+      ],
+      "url": "https://law.stanford.edu/courses/media-technology-and-the-first-amendment/"
+    },
+    {
+      "id": "mental-health-law-and-policy",
+      "title": "Mental Health Law and Policy",
+      "shortTitle": "Mental Health Law and Policy",
+      "courseNumber": "LAW 3010",
+      "section": 1,
+      "classNumber": 1095,
+      "units": 2,
+      "professors": [
+        "Joseph Bankman",
+        "Brian Bloom",
+        "Alison D. Morantz"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, participation",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Thu",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/mental-health-law-2/"
+    },
+    {
+      "id": "natural-resources-law-and-policy",
+      "title": "Natural Resources Law and Policy",
+      "shortTitle": "Natural Resources Law",
+      "courseNumber": "LAW 2506",
+      "section": 1,
+      "classNumber": 1096,
+      "units": 3,
+      "professors": [
+        "Barton Thompson"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "Open-laptop in-person final, plus pre-class questionnaires",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/natural-resources-law-and-policy/"
+    },
+    {
+      "id": "negotiation-01",
+      "title": "Negotiation (Section 01)",
+      "shortTitle": "Negotiation §01",
+      "courseNumber": "LAW 7821",
+      "section": 1,
+      "classNumber": 1129,
+      "units": 3,
+      "professors": [
+        "Rishi Batra"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, simulations; attendance at every class required",
+      "enrollment": {
+        "method": "Consent (registrar lottery)",
+        "seats": 14,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab); seats are assigned by lottery",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "Attendance at the first class is mandatory or you are dropped"
+      ],
+      "url": "https://law.stanford.edu/courses/negotiation/"
+    },
+    {
+      "id": "negotiation-02",
+      "title": "Negotiation (Section 02)",
+      "shortTitle": "Negotiation §02",
+      "courseNumber": "LAW 7821",
+      "section": 2,
+      "classNumber": 1131,
+      "units": 3,
+      "professors": [
+        "Julie Kennedy"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, simulations; attendance at every class required",
+      "enrollment": {
+        "method": "Consent (registrar lottery)",
+        "seats": 16,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab); seats are assigned by lottery",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "Attendance at the first class is mandatory or you are dropped"
+      ],
+      "url": "https://law.stanford.edu/courses/negotiation/"
+    },
+    {
+      "id": "negotiation-03",
+      "title": "Negotiation (Section 03)",
+      "shortTitle": "Negotiation §03",
+      "courseNumber": "LAW 7821",
+      "section": 3,
+      "classNumber": 1130,
+      "units": 3,
+      "professors": [
+        "Rishi Batra"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, simulations; attendance at every class required",
+      "enrollment": {
+        "method": "Consent (registrar lottery)",
+        "seats": 14,
+        "howToApply": "Submit a consent application on the SLS Registrar site (Consent Courses tab); seats are assigned by lottery",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://registrar.law.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [
+        "Attendance at the first class is mandatory or you are dropped"
+      ],
+      "url": "https://law.stanford.edu/courses/negotiation/"
+    },
+    {
+      "id": "protection-of-personality-defamation-privacy-and-emotional-distress",
+      "title": "Protection of Personality: Defamation, Privacy, and Emotional Distress",
+      "shortTitle": "Protection of Personality",
+      "courseNumber": "LAW 4017",
+      "section": 1,
+      "classNumber": 1097,
+      "units": 3,
+      "professors": [
+        "Robert L. Rabin"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-person final",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/advanced-torts-defamation-privacy-and-emotional-distress/"
+    },
+    {
+      "id": "psychological-development-myth-law-and-practice",
+      "title": "Psychological Development: Myth, Law, and Practice",
+      "shortTitle": "Psychological Development",
+      "courseNumber": "LAW 3510",
+      "section": 1,
+      "classNumber": 1098,
+      "units": 2,
+      "professors": [
+        "Jeff Strnad"
+      ],
+      "type": "Seminar",
+      "typeNote": "Listed as a lecture, but graded entirely on reflection papers",
+      "sourceComponent": "LEC",
+      "grading": "Pass/Fail only (Mandatory P/R/F)",
+      "honorsEligible": false,
+      "assessment": "Paper",
+      "assessmentDetail": "Reflection papers totaling 18+ pages",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "16:15",
+          "end": "18:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/myth-law-and-practice/"
+    },
+    {
+      "id": "public-interest-law-and-practice",
+      "title": "Public Interest Law and Practice",
+      "shortTitle": "Public Interest Law and Practice",
+      "courseNumber": "LAW 7032",
+      "section": 1,
+      "classNumber": 1117,
+      "units": 3,
+      "professors": [
+        "Michael Winn"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments and a final presentation",
+      "enrollment": {
+        "method": "Lottery",
+        "seats": 16,
+        "howToApply": "Rank it in the Axess Law Lottery (up to 4 choices; max 2 admitted)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://axess.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Thu",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/public-interest-law-and-practice/"
+    },
+    {
+      "id": "remedies",
+      "title": "Remedies",
+      "shortTitle": "Remedies",
+      "courseNumber": "LAW 7038",
+      "section": 1,
+      "classNumber": 1100,
+      "units": 3,
+      "professors": [
+        "Mark A. Lemley"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "Essay final exam (format TBD)",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/remedies/"
+    },
+    {
+      "id": "sports-law-emerging-issues-in-professional-and-amateur-sports",
+      "title": "Sports Law: Emerging Issues in Professional and Amateur Sports",
+      "shortTitle": "Sports Law",
+      "courseNumber": "LAW 1080",
+      "section": 1,
+      "classNumber": 1139,
+      "units": 3,
+      "professors": [
+        "Jack Bair",
+        "Amy Tovar"
+      ],
+      "type": "Seminar",
+      "sourceComponent": "SEM",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Short written assignments and an oral presentation",
+      "enrollment": {
+        "method": "Lottery",
+        "seats": 20,
+        "howToApply": "Rank it in the Axess Law Lottery (up to 4 choices; max 2 admitted)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://axess.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Tue",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/sports-law-emerging-issues-in-professional-and-amateur-sports/"
+    },
+    {
+      "id": "the-practice-of-persuasion",
+      "title": "The Practice of Persuasion",
+      "shortTitle": "The Practice of Persuasion",
+      "courseNumber": "LAW 3507",
+      "section": 1,
+      "classNumber": 1132,
+      "units": 3,
+      "professors": [
+        "Ticien Sassoubre"
+      ],
+      "type": "Seminar",
+      "typeNote": "Listed as a lecture; a writing course",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Writing and revision assignments",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "16:15",
+          "end": "19:15",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/law-and-the-rhetorical-tradition/"
+    },
+    {
+      "id": "the-role-of-the-general-counsel",
+      "title": "The Role of the General Counsel",
+      "shortTitle": "The Role of the General Counsel",
+      "courseNumber": "LAW 1057",
+      "section": 1,
+      "classNumber": 28641,
+      "units": 3,
+      "professors": [
+        "Sonya Cheney",
+        "Marie Oh Huber",
+        "Brian Martin"
+      ],
+      "type": "Seminar",
+      "typeNote": "Listed as a lecture; practice-oriented",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Written assignments, final paper/presentation",
+      "enrollment": {
+        "method": "Lottery",
+        "seats": 20,
+        "howToApply": "Rank it in the Axess Law Lottery (up to 4 choices; max 2 admitted)",
+        "deadline": "2026-11-16T23:59",
+        "applyUrl": "https://axess.stanford.edu/"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/the-role-of-the-modern-general-counsel/"
+    },
+    {
+      "id": "transitional-justice",
+      "title": "Transitional Justice",
+      "shortTitle": "Transitional Justice",
+      "courseNumber": "LAW 7086",
+      "section": 1,
+      "classNumber": 1120,
+      "units": 3,
+      "professors": [
+        "Jamie O'Connell"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam or paper",
+      "assessmentDetail": "Final exam or final paper, plus written assignments",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/transitional-justice/"
+    },
+    {
+      "id": "u-s-legal-history",
+      "title": "U.S. Legal History",
+      "shortTitle": "U.S. Legal History",
+      "courseNumber": "LAW 3504",
+      "section": 1,
+      "classNumber": 1103,
+      "units": 3,
+      "professors": [
+        "Gregory Ablavsky"
+      ],
+      "type": "Seminar",
+      "typeNote": "Listed as a lecture; legal history",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Paper",
+      "assessmentDetail": "Response papers or a final research paper",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "11:10",
+          "end": "12:40",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/history-of-american-law/"
+    },
+    {
+      "id": "venture-capital",
+      "title": "Venture Capital",
+      "shortTitle": "Venture Capital",
+      "courseNumber": "LAW 1040",
+      "section": 1,
+      "classNumber": 1105,
+      "units": 3,
+      "professors": [
+        "Robert Bartlett"
+      ],
+      "type": "Doctrinal",
+      "sourceComponent": "LEC",
+      "grading": "H/P/R/F",
+      "honorsEligible": true,
+      "assessment": "Exam",
+      "assessmentDetail": "In-person final; Excel modeling exercises during the quarter",
+      "enrollment": {
+        "method": "Open",
+        "seats": null,
+        "howToApply": "Add in Axess once enrollment opens (no application needed)",
+        "applyUrl": "https://axess.stanford.edu/",
+        "opens": "2026-12-02T17:30"
+      },
+      "meetings": [
+        {
+          "day": "Mon",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        },
+        {
+          "day": "Wed",
+          "start": "14:15",
+          "end": "15:45",
+          "startDate": "2027-01-04",
+          "endDate": "2027-03-08"
+        }
+      ],
+      "flags": [],
+      "url": "https://law.stanford.edu/courses/venture-capital-i/"
+    }
+  ]
+}
